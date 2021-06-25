@@ -1,7 +1,7 @@
 {
-  "name": "ahj-dom-3",
+  "name": "webpacking",
   "version": "1.0.0",
-  "description": "In-Memory Sorting",
+  "description": "webpack boilerplate",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack --mode development",
@@ -12,14 +12,14 @@
   "browserslist": "> 0.25%, not dead",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kvrdv/ahj-dom-3.git"
+    "url": "git+https://github.com/bencubin/webpacking.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kvrdv/ahj-dom-3/issues"
+    "url": "https://github.com/bencubin/webpacking/issues"
   },
-  "homepage": "https://github.com/kvrdv/ahj-dom-3#readme",
+  "homepage": "https://github.com/bencubin/webpacking#readme",
   "devDependencies": {
     "@babel/core": "^7.14.3",
     "@babel/polyfill": "^7.12.1",
