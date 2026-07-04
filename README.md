@@ -1,4 +1,4 @@
-# Webpack 5 boilerplate (Update 25.01.2021) 
+# Webpack 5 boilerplate
 
 ## Easy way
 1. Clone repository with command ```git clone https://github.com/bencubin/webpacking.git```
