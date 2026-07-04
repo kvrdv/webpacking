@@ -337,7 +337,4 @@ module.exports = {
 ```javascript
 npm i -D eslint 
 npx eslint --init
-``` 
-
----
-by [Bencubin](https://github.com/bencubin) in 2021
+```
